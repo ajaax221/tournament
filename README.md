@@ -16,4 +16,4 @@ test using "python tournament_test.py" on linux terminal.
 ==================================
 Example Program can be reached at:
 
-E-mail: davidjonas@hotmail.com.br
+E-mail: davidjonasmarques@gmail.com
